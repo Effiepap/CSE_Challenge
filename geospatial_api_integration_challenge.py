@@ -225,11 +225,11 @@ def get_correlation():
 
 get_correlation()
 
-with open('/content/wfs-area-export-Colorado_2024-06-01-2024-09-30.geojson') as f:
+with open('wfs-area-export-Colorado_2024-06-01-2024-09-30.geojson') as f:
     gj = geojson.load(f)
 orora_tech_wfs_geojson = gj['features'][0]
 
-wfs_file_path = "https://github.com/Effiepap/CSE_Challenge/blob/main/wfs-area-export-Colorado_2024-06-01-2024-09-30.geojson"
+wfs_file_path = "wfs-area-export-Colorado_2024-06-01-2024-09-30.geojson"
 wfs_data = gpd.read_file(wfs_file_path)
 official_data = gpd.GeoDataFrame.from_features(response.json()["features"])
 official_data["FireDiscoveryDateTime"] = pd.to_datetime(official_data["FireDiscoveryDateTime"], unit="ms").dt.tz_localize(timezone.utc).dt.tz_convert("America/Denver")
