@@ -1,0 +1,1442 @@
+[
+    {
+        "IncidentName": "TWIN FORKS",
+        "FireDiscoveryDateTime": 1722196633000,
+        "FireOutDateTime": 1722621900000,
+        "IncidentSize": 6.1,
+        "POOState": "US-CO",
+        "Latitude": 39.5877303822395,
+        "Longitude": -105.219336143833
+    },
+    {
+        "IncidentName": "Trail",
+        "FireDiscoveryDateTime": 1722887880000,
+        "FireOutDateTime": 1724877000000,
+        "IncidentSize": 2.05,
+        "POOState": "US-CO",
+        "Latitude": 39.5002121223435,
+        "Longitude": -108.748565918913
+    },
+    {
+        "IncidentName": "GILLIAM",
+        "FireDiscoveryDateTime": 1722208980000,
+        "FireOutDateTime": 1725897600000,
+        "IncidentSize": 60,
+        "POOState": "US-CO",
+        "Latitude": 40.0471791946992,
+        "Longitude": -108.699381974908
+    },
+    {
+        "IncidentName": "28 and M",
+        "FireDiscoveryDateTime": 1718064000000,
+        "FireOutDateTime": 1720483200000,
+        "IncidentSize": 8.8,
+        "POOState": "US-CO",
+        "Latitude": 37.7891893128489,
+        "Longitude": -102.261526259242
+    },
+    {
+        "IncidentName": "Gateway Ridge",
+        "FireDiscoveryDateTime": 1723602720000,
+        "FireOutDateTime": 1723737300000,
+        "IncidentSize": 1.5,
+        "POOState": "US-CO",
+        "Latitude": 40.6885665292543,
+        "Longitude": -105.248190282754
+    },
+    {
+        "IncidentName": "CLEOPATRA",
+        "FireDiscoveryDateTime": 1725400140000,
+        "FireOutDateTime": 1729701000000,
+        "IncidentSize": 7.5,
+        "POOState": "US-CO",
+        "Latitude": 40.4803892364125,
+        "Longitude": -108.859844064271
+    },
+    {
+        "IncidentName": "Sand Sage",
+        "FireDiscoveryDateTime": 1719091198000,
+        "FireOutDateTime": 1720468860000,
+        "IncidentSize": 10,
+        "POOState": "US-CO",
+        "Latitude": 39.8126734400139,
+        "Longitude": -104.832482080627
+    },
+    {
+        "IncidentName": "Bear Creek",
+        "FireDiscoveryDateTime": 1718551304000,
+        "FireOutDateTime": 1719434880000,
+        "IncidentSize": 3,
+        "POOState": "US-CO",
+        "Latitude": 39.4134733647929,
+        "Longitude": -105.123093101736
+    },
+    {
+        "IncidentName": "Bucktail",
+        "FireDiscoveryDateTime": 1722532680000,
+        "FireOutDateTime": 1727974200000,
+        "IncidentSize": 7078,
+        "POOState": "US-CO",
+        "Latitude": 38.3104729887074,
+        "Longitude": -108.456293720544
+    },
+    {
+        "IncidentName": "Cottonwood Canyon",
+        "FireDiscoveryDateTime": 1723076700000,
+        "FireOutDateTime": 1731427200000,
+        "IncidentSize": 3,
+        "POOState": "US-CO",
+        "Latitude": 39.1975641085962,
+        "Longitude": -108.397115807513
+    },
+    {
+        "IncidentName": "CR 115",
+        "FireDiscoveryDateTime": 1723318260000,
+        "FireOutDateTime": 1723319100000,
+        "IncidentSize": 50,
+        "POOState": "US-CO",
+        "Latitude": 40.6507566171848,
+        "Longitude": -103.952342974788
+    },
+    {
+        "IncidentName": "Newport 434",
+        "FireDiscoveryDateTime": 1719523800000,
+        "FireOutDateTime": 1719615600000,
+        "IncidentSize": 60,
+        "POOState": "US-CO",
+        "Latitude": 40.1171706433638,
+        "Longitude": -102.501483564295
+    },
+    {
+        "IncidentName": "88th AVE",
+        "FireDiscoveryDateTime": 1720826762000,
+        "FireOutDateTime": 1720835100000,
+        "IncidentSize": 125,
+        "POOState": "US-CO",
+        "Latitude": 39.8478064831914,
+        "Longitude": -104.279209955835
+    },
+    {
+        "IncidentName": "64 Fire",
+        "FireDiscoveryDateTime": 1720129226000,
+        "FireOutDateTime": 1720132200000,
+        "IncidentSize": 4.25,
+        "POOState": "US-CO",
+        "Latitude": 40.8915097181455,
+        "Longitude": -102.999464776894
+    },
+    {
+        "IncidentName": "DUFFY",
+        "FireDiscoveryDateTime": 1722376560000,
+        "FireOutDateTime": 1727879400000,
+        "IncidentSize": 76.7,
+        "POOState": "US-CO",
+        "Latitude": 40.4430063116327,
+        "Longitude": -107.786227825322
+    },
+    {
+        "IncidentName": "Judson",
+        "FireDiscoveryDateTime": 1727294873000,
+        "FireOutDateTime": 1727297520000,
+        "IncidentSize": 384,
+        "POOState": "US-CO",
+        "Latitude": 40.4594235903444,
+        "Longitude": -103.959592953195
+    },
+    {
+        "IncidentName": "Twin Peaks",
+        "FireDiscoveryDateTime": 1720713600000,
+        "FireOutDateTime": 1720742400000,
+        "IncidentSize": 1,
+        "POOState": "US-CO",
+        "Latitude": 37.5398061412599,
+        "Longitude": -104.434509745177
+    },
+    {
+        "IncidentName": "WELLER",
+        "FireDiscoveryDateTime": 1719792311000,
+        "FireOutDateTime": 1721142000000,
+        "IncidentSize": 5.7,
+        "POOState": "US-CO",
+        "Latitude": 40.5929232689116,
+        "Longitude": -108.610794024859
+    },
+    {
+        "IncidentName": "Bruff Creek",
+        "FireDiscoveryDateTime": 1724197618000,
+        "FireOutDateTime": 1724857200000,
+        "IncidentSize": 5,
+        "POOState": "US-CO",
+        "Latitude": 37.8590561285019,
+        "Longitude": -105.377259992656
+    },
+    {
+        "IncidentName": "SAWMILL",
+        "FireDiscoveryDateTime": 1724270700000,
+        "FireOutDateTime": null,
+        "IncidentSize": 4.9,
+        "POOState": "US-CO",
+        "Latitude": 40.4788892616905,
+        "Longitude": -108.519227990312
+    },
+    {
+        "IncidentName": "Fishermens Lot",
+        "FireDiscoveryDateTime": 1719532260000,
+        "FireOutDateTime": 1720468860000,
+        "IncidentSize": 30,
+        "POOState": "US-CO",
+        "Latitude": 39.8127514381405,
+        "Longitude": -104.859618086925
+    },
+    {
+        "IncidentName": "Lamar RX Burn",
+        "FireDiscoveryDateTime": 1726772078000,
+        "FireOutDateTime": null,
+        "IncidentSize": 30,
+        "POOState": "US-CO",
+        "Latitude": 38.2941293302248,
+        "Longitude": -103.207988534504
+    },
+    {
+        "IncidentName": "County Road 67",
+        "FireDiscoveryDateTime": 1720040006000,
+        "FireOutDateTime": 1720050300000,
+        "IncidentSize": 56,
+        "POOState": "US-CO",
+        "Latitude": 40.7177847013806,
+        "Longitude": -102.89362073014
+    },
+    {
+        "IncidentName": "Connected Lakes",
+        "FireDiscoveryDateTime": 1721005560000,
+        "FireOutDateTime": 1721255400000,
+        "IncidentSize": 2,
+        "POOState": "US-CO",
+        "Latitude": 39.0732090782332,
+        "Longitude": -108.601237837127
+    },
+    {
+        "IncidentName": "MAYNARD",
+        "FireDiscoveryDateTime": 1726089080000,
+        "FireOutDateTime": 1726261200000,
+        "IncidentSize": 40,
+        "POOState": "US-CO",
+        "Latitude": 40.5289393546759,
+        "Longitude": -107.350893739824
+    },
+    {
+        "IncidentName": "55",
+        "FireDiscoveryDateTime": 1719595598000,
+        "FireOutDateTime": 1721146080000,
+        "IncidentSize": 1.3,
+        "POOState": "US-CO",
+        "Latitude": 39.2379561233149,
+        "Longitude": -108.262077782981
+    },
+    {
+        "IncidentName": "Coal Mine Canyon",
+        "FireDiscoveryDateTime": 1722121140000,
+        "FireOutDateTime": 1723139100000,
+        "IncidentSize": 11,
+        "POOState": "US-CO",
+        "Latitude": 37.0680889071451,
+        "Longitude": -107.097843297949
+    },
+    {
+        "IncidentName": "THREE TREE",
+        "FireDiscoveryDateTime": 1722890760000,
+        "FireOutDateTime": 1722964500000,
+        "IncidentSize": 1,
+        "POOState": "US-CO",
+        "Latitude": 40.6655683888064,
+        "Longitude": -107.124653706761
+    },
+    {
+        "IncidentName": "24 Canal",
+        "FireDiscoveryDateTime": 1721554140000,
+        "FireOutDateTime": 1723312800000,
+        "IncidentSize": 2,
+        "POOState": "US-CO",
+        "Latitude": 39.1638510902266,
+        "Longitude": -108.596476846596
+    },
+    {
+        "IncidentName": "Gut",
+        "FireDiscoveryDateTime": 1718478484000,
+        "FireOutDateTime": 1719262500000,
+        "IncidentSize": 1.2,
+        "POOState": "US-CO",
+        "Latitude": 38.1195279817059,
+        "Longitude": -108.182237640969
+    },
+    {
+        "IncidentName": "Pivot",
+        "FireDiscoveryDateTime": 1720242000000,
+        "FireOutDateTime": 1720566660000,
+        "IncidentSize": 4.8,
+        "POOState": "US-CO",
+        "Latitude": 37.2050058256994,
+        "Longitude": -108.686843654575
+    },
+    {
+        "IncidentName": "Rabbit",
+        "FireDiscoveryDateTime": 1724361540000,
+        "FireOutDateTime": 1724608800000,
+        "IncidentSize": 2.5,
+        "POOState": "US-CO",
+        "Latitude": 40.2447284728898,
+        "Longitude": -105.204010217941
+    },
+    {
+        "IncidentName": "MM 295",
+        "FireDiscoveryDateTime": 1721338020000,
+        "FireOutDateTime": 1721347200000,
+        "IncidentSize": 15,
+        "POOState": "US-CO",
+        "Latitude": 40.950006588171,
+        "Longitude": -104.916677238669
+    },
+    {
+        "IncidentName": "Joder",
+        "FireDiscoveryDateTime": 1720461184000,
+        "FireOutDateTime": 1720562400000,
+        "IncidentSize": 1,
+        "POOState": "US-CO",
+        "Latitude": 40.1000394474907,
+        "Longitude": -105.286293219493
+    },
+    {
+        "IncidentName": "Interlaken",
+        "FireDiscoveryDateTime": 1718135040000,
+        "FireOutDateTime": 1730757600000,
+        "IncidentSize": 704,
+        "POOState": "US-CO",
+        "Latitude": 39.0690332335084,
+        "Longitude": -106.350660341821
+    },
+    {
+        "IncidentName": "Kings Canyon",
+        "FireDiscoveryDateTime": 1722198300000,
+        "FireOutDateTime": 1726164000000,
+        "IncidentSize": 214,
+        "POOState": "US-CO",
+        "Latitude": 39.0061630427962,
+        "Longitude": -108.983913911383
+    },
+    {
+        "IncidentName": "TEXAS",
+        "FireDiscoveryDateTime": 1721599200000,
+        "FireOutDateTime": 1722960060000,
+        "IncidentSize": 20.3,
+        "POOState": "US-CO",
+        "Latitude": 39.7887391505278,
+        "Longitude": -108.861777978068
+    },
+    {
+        "IncidentName": "Welsh",
+        "FireDiscoveryDateTime": 1722624060000,
+        "FireOutDateTime": null,
+        "IncidentSize": 4.6,
+        "POOState": "US-CO",
+        "Latitude": 39.145339170627,
+        "Longitude": -107.411977586536
+    },
+    {
+        "IncidentName": "79 Command",
+        "FireDiscoveryDateTime": 1721756246000,
+        "FireOutDateTime": 1721764500000,
+        "IncidentSize": 1,
+        "POOState": "US-CO",
+        "Latitude": 39.4851731765444,
+        "Longitude": -107.961227746522
+    },
+    {
+        "IncidentName": "Currant Creek",
+        "FireDiscoveryDateTime": 1722111625000,
+        "FireOutDateTime": 1724353200000,
+        "IncidentSize": 193,
+        "POOState": "US-CO",
+        "Latitude": 38.9382891137493,
+        "Longitude": -107.838293656411
+    },
+    {
+        "IncidentName": "Kingman",
+        "FireDiscoveryDateTime": 1720483736000,
+        "FireOutDateTime": null,
+        "IncidentSize": 3.1,
+        "POOState": "US-CO",
+        "Latitude": 37.5765558628582,
+        "Longitude": -108.884510734276
+    },
+    {
+        "IncidentName": "Monument",
+        "FireDiscoveryDateTime": 1723075665000,
+        "FireOutDateTime": 1725904800000,
+        "IncidentSize": 17,
+        "POOState": "US-CO",
+        "Latitude": 39.1906561049701,
+        "Longitude": -108.435993815109
+    },
+    {
+        "IncidentName": "Gateway",
+        "FireDiscoveryDateTime": 1722817800000,
+        "FireOutDateTime": 1722830400000,
+        "IncidentSize": 3,
+        "POOState": "US-CO",
+        "Latitude": 38.2111662272951,
+        "Longitude": -104.628216857362
+    },
+    {
+        "IncidentName": "Sheep Creek",
+        "FireDiscoveryDateTime": 1720294680000,
+        "FireOutDateTime": 1720306560000,
+        "IncidentSize": 1.5,
+        "POOState": "US-CO",
+        "Latitude": 39.0988412568499,
+        "Longitude": -106.06846428163
+    },
+    {
+        "IncidentName": "Ed Joe",
+        "FireDiscoveryDateTime": 1722277470000,
+        "FireOutDateTime": 1722884400000,
+        "IncidentSize": 71,
+        "POOState": "US-CO",
+        "Latitude": 38.0807889709683,
+        "Longitude": -108.265710654831
+    },
+    {
+        "IncidentName": "Quarry",
+        "FireDiscoveryDateTime": 1722407700000,
+        "FireOutDateTime": 1730833980000,
+        "IncidentSize": 580,
+        "POOState": "US-CO",
+        "Latitude": 39.5433873805708,
+        "Longitude": -105.154938123916
+    },
+    {
+        "IncidentName": "COW",
+        "FireDiscoveryDateTime": 1722291000000,
+        "FireOutDateTime": 1725897600000,
+        "IncidentSize": 35,
+        "POOState": "US-CO",
+        "Latitude": 40.0027801932454,
+        "Longitude": -108.643477957328
+    },
+    {
+        "IncidentName": "Spring Canyon",
+        "FireDiscoveryDateTime": 1720975612000,
+        "FireOutDateTime": 1722038400000,
+        "IncidentSize": 725,
+        "POOState": "US-CO",
+        "Latitude": 37.1019182160467,
+        "Longitude": -102.096896154905
+    },
+    {
+        "IncidentName": "TSCHUDDI",
+        "FireDiscoveryDateTime": 1726098600000,
+        "FireOutDateTime": 1732546860000,
+        "IncidentSize": 549,
+        "POOState": "US-CO",
+        "Latitude": 40.1697162503878,
+        "Longitude": -108.149720870764
+    },
+    {
+        "IncidentName": "CR 39",
+        "FireDiscoveryDateTime": 1719447600000,
+        "FireOutDateTime": 1719455400000,
+        "IncidentSize": 20,
+        "POOState": "US-CO",
+        "Latitude": 40.1335066381498,
+        "Longitude": -102.612109592886
+    },
+    {
+        "IncidentName": "BIG GULCH",
+        "FireDiscoveryDateTime": 1723065720000,
+        "FireOutDateTime": 1727881200000,
+        "IncidentSize": 1163.8,
+        "POOState": "US-CO",
+        "Latitude": 40.513306320975,
+        "Longitude": -107.779810832828
+    },
+    {
+        "IncidentName": "County Road 10",
+        "FireDiscoveryDateTime": 1722976063000,
+        "FireOutDateTime": null,
+        "IncidentSize": 10,
+        "POOState": "US-CO",
+        "Latitude": 37.5617628618038,
+        "Longitude": -108.870425729763
+    },
+    {
+        "IncidentName": "219",
+        "FireDiscoveryDateTime": 1720915860000,
+        "FireOutDateTime": 1731085200000,
+        "IncidentSize": 25,
+        "POOState": "US-CO",
+        "Latitude": 39.6599562090274,
+        "Longitude": -107.822210736884
+    },
+    {
+        "IncidentName": "Pearl",
+        "FireDiscoveryDateTime": 1726507020000,
+        "FireOutDateTime": 1733169600000,
+        "IncidentSize": 129.6,
+        "POOState": "US-CO",
+        "Latitude": 40.8480065177402,
+        "Longitude": -105.69531040598
+    },
+    {
+        "IncidentName": "Unit D Pile RX",
+        "FireDiscoveryDateTime": 1719851228000,
+        "FireOutDateTime": 1719954780000,
+        "IncidentSize": 100,
+        "POOState": "US-CO",
+        "Latitude": 37.4378710406593,
+        "Longitude": -105.807576047726
+    },
+    {
+        "IncidentName": "Snow Ranch",
+        "FireDiscoveryDateTime": 1718127600000,
+        "FireOutDateTime": 1720536660000,
+        "IncidentSize": 386,
+        "POOState": "US-CO",
+        "Latitude": 37.2539559258474,
+        "Longitude": -107.216427342137
+    },
+    {
+        "IncidentName": "Sand",
+        "FireDiscoveryDateTime": 1723236600000,
+        "FireOutDateTime": 1723237200000,
+        "IncidentSize": 40,
+        "POOState": "US-CO",
+        "Latitude": 40.7324245909108,
+        "Longitude": -104.475396108124
+    },
+    {
+        "IncidentName": "Castle Rock",
+        "FireDiscoveryDateTime": 1719800640000,
+        "FireOutDateTime": 1720199700000,
+        "IncidentSize": 4.35,
+        "POOState": "US-CO",
+        "Latitude": 39.1542060579226,
+        "Longitude": -109.036960939863
+    },
+    {
+        "IncidentName": "Unit 13 Pile RX",
+        "FireDiscoveryDateTime": 1719857892000,
+        "FireOutDateTime": 1719954780000,
+        "IncidentSize": 115,
+        "POOState": "US-CO",
+        "Latitude": 37.4893660300819,
+        "Longitude": -106.093020116847
+    },
+    {
+        "IncidentName": "Blue Heron",
+        "FireDiscoveryDateTime": 1720468583000,
+        "FireOutDateTime": 1720801800000,
+        "IncidentSize": 3.45,
+        "POOState": "US-CO",
+        "Latitude": 39.0782630795755,
+        "Longitude": -108.591375835589
+    },
+    {
+        "IncidentName": "ELKHORN",
+        "FireDiscoveryDateTime": 1722888900000,
+        "FireOutDateTime": 1724268000000,
+        "IncidentSize": 3,
+        "POOState": "US-CO",
+        "Latitude": 40.986566440623,
+        "Longitude": -106.976750715046
+    },
+    {
+        "IncidentName": "STEARNS",
+        "FireDiscoveryDateTime": 1726473420000,
+        "FireOutDateTime": 1730128500000,
+        "IncidentSize": 8.3,
+        "POOState": "US-CO",
+        "Latitude": 40.5731733407209,
+        "Longitude": -107.615343804119
+    },
+    {
+        "IncidentName": "JUNIPER",
+        "FireDiscoveryDateTime": 1723846680000,
+        "FireOutDateTime": 1727884800000,
+        "IncidentSize": 6.6,
+        "POOState": "US-CO",
+        "Latitude": 40.4448392951912,
+        "Longitude": -108.011560875111
+    },
+    {
+        "IncidentName": "Willow Crossing",
+        "FireDiscoveryDateTime": 1726360104000,
+        "FireOutDateTime": 1726754400000,
+        "IncidentSize": 493.5,
+        "POOState": "US-CO",
+        "Latitude": 37.0074621843048,
+        "Longitude": -102.384306214738
+    },
+    {
+        "IncidentName": "Threemile Creek RX",
+        "FireDiscoveryDateTime": 1727302920000,
+        "FireOutDateTime": null,
+        "IncidentSize": 345,
+        "POOState": "US-CO",
+        "Latitude": 38.7015321963673,
+        "Longitude": -106.15510425714
+    },
+    {
+        "IncidentName": "South Pawnee Creek",
+        "FireDiscoveryDateTime": 1723312560000,
+        "FireOutDateTime": 1723313100000,
+        "IncidentSize": 17,
+        "POOState": "US-CO",
+        "Latitude": 40.6223066180384,
+        "Longitude": -103.885342955441
+    },
+    {
+        "IncidentName": "28743 Hwy 52",
+        "FireDiscoveryDateTime": 1726164000000,
+        "FireOutDateTime": 1726173000000,
+        "IncidentSize": 90,
+        "POOState": "US-CO",
+        "Latitude": 40.0731564984979,
+        "Longitude": -104.508595035907
+    },
+    {
+        "IncidentName": "North Face",
+        "FireDiscoveryDateTime": 1722028200000,
+        "FireOutDateTime": 1723469880000,
+        "IncidentSize": 15,
+        "POOState": "US-CO",
+        "Latitude": 37.2894228517071,
+        "Longitude": -108.459310614516
+    },
+    {
+        "IncidentName": "County Road 334",
+        "FireDiscoveryDateTime": 1717890974000,
+        "FireOutDateTime": null,
+        "IncidentSize": 30,
+        "POOState": "US-CO",
+        "Latitude": 37.132505887886,
+        "Longitude": -107.549310402786
+    },
+    {
+        "IncidentName": "CROOKED WASH",
+        "FireDiscoveryDateTime": 1720125420000,
+        "FireOutDateTime": 1721748600000,
+        "IncidentSize": 15,
+        "POOState": "US-CO",
+        "Latitude": 40.2757732538514,
+        "Longitude": -108.28392791333
+    },
+    {
+        "IncidentName": "THORNBURGH",
+        "FireDiscoveryDateTime": 1721339040000,
+        "FireOutDateTime": 1722378600000,
+        "IncidentSize": 14.8,
+        "POOState": "US-CO",
+        "Latitude": 40.228806292001,
+        "Longitude": -107.683710775831
+    },
+    {
+        "IncidentName": "Ashford Canyon",
+        "FireDiscoveryDateTime": 1722884880000,
+        "FireOutDateTime": 1724877000000,
+        "IncidentSize": 7,
+        "POOState": "US-CO",
+        "Latitude": 39.4942631205518,
+        "Longitude": -108.763060921319
+    },
+    {
+        "IncidentName": "Route 10",
+        "FireDiscoveryDateTime": 1721067600000,
+        "FireOutDateTime": null,
+        "IncidentSize": 8.56,
+        "POOState": "US-CO",
+        "Latitude": 38.4972062561342,
+        "Longitude": -104.818409931073
+    },
+    {
+        "IncidentName": "Long Glade",
+        "FireDiscoveryDateTime": 1721423734000,
+        "FireOutDateTime": 1722619740000,
+        "IncidentSize": 2,
+        "POOState": "US-CO",
+        "Latitude": 37.0928878491799,
+        "Longitude": -108.07612551282
+    },
+    {
+        "IncidentName": "Teds Fire",
+        "FireDiscoveryDateTime": 1720638840000,
+        "FireOutDateTime": 1720649400000,
+        "IncidentSize": 10.9,
+        "POOState": "US-CO",
+        "Latitude": 40.6733665314918,
+        "Longitude": -105.189296267219
+    },
+    {
+        "IncidentName": "Little Salt Wash",
+        "FireDiscoveryDateTime": 1718144700000,
+        "FireOutDateTime": 1718145900000,
+        "IncidentSize": 1.2,
+        "POOState": "US-CO",
+        "Latitude": 39.2208260938603,
+        "Longitude": -108.648595864443
+    },
+    {
+        "IncidentName": "Lake Shore",
+        "FireDiscoveryDateTime": 1722458695000,
+        "FireOutDateTime": 1723404600000,
+        "IncidentSize": 7,
+        "POOState": "US-CO",
+        "Latitude": 39.9572284222697,
+        "Longitude": -105.369454221589
+    },
+    {
+        "IncidentName": "BUFFALO",
+        "FireDiscoveryDateTime": 1725926460000,
+        "FireOutDateTime": 1727712000000,
+        "IncidentSize": 89,
+        "POOState": "US-CO",
+        "Latitude": 40.1839062466649,
+        "Longitude": -108.224827888931
+    },
+    {
+        "IncidentName": "346 Command",
+        "FireDiscoveryDateTime": 1722384792000,
+        "FireOutDateTime": 1722402240000,
+        "IncidentSize": 2,
+        "POOState": "US-CO",
+        "Latitude": 39.530923199667,
+        "Longitude": -107.71887769888
+    },
+    {
+        "IncidentName": "HARD GROVE",
+        "FireDiscoveryDateTime": 1724289660000,
+        "FireOutDateTime": 1724785200000,
+        "IncidentSize": 4.8,
+        "POOState": "US-CO",
+        "Latitude": 40.6373063179373,
+        "Longitude": -108.029560903666
+    },
+    {
+        "IncidentName": "72",
+        "FireDiscoveryDateTime": 1718718480000,
+        "FireOutDateTime": 1722026340000,
+        "IncidentSize": 28.7,
+        "POOState": "US-CO",
+        "Latitude": 39.416718159331,
+        "Longitude": -108.079210764176
+    },
+    {
+        "IncidentName": "County Road 10",
+        "FireDiscoveryDateTime": 1719963541000,
+        "FireOutDateTime": 1720051200000,
+        "IncidentSize": 25,
+        "POOState": "US-CO",
+        "Latitude": 40.4970066708227,
+        "Longitude": -102.887009701933
+    },
+    {
+        "IncidentName": "HILL SIDE",
+        "FireDiscoveryDateTime": 1720897200000,
+        "FireOutDateTime": 1721419800000,
+        "IncidentSize": 1334,
+        "POOState": "US-CO",
+        "Latitude": 38.5121132588371,
+        "Longitude": -104.809689930645
+    },
+    {
+        "IncidentName": "DIAMOND",
+        "FireDiscoveryDateTime": 1720148880000,
+        "FireOutDateTime": 1721748600000,
+        "IncidentSize": 2,
+        "POOState": "US-CO",
+        "Latitude": 40.2190561939065,
+        "Longitude": -108.999101060986
+    },
+    {
+        "IncidentName": "Gibson Gulch",
+        "FireDiscoveryDateTime": 1720037040000,
+        "FireOutDateTime": 1720387200000,
+        "IncidentSize": 4,
+        "POOState": "US-CO",
+        "Latitude": 39.4766392011227,
+        "Longitude": -107.598427666019
+    },
+    {
+        "IncidentName": "Horsethief",
+        "FireDiscoveryDateTime": 1719692280000,
+        "FireOutDateTime": 1721146080000,
+        "IncidentSize": 3.7,
+        "POOState": "US-CO",
+        "Latitude": 39.1536730722087,
+        "Longitude": -108.833677896345
+    },
+    {
+        "IncidentName": "Pipe Line",
+        "FireDiscoveryDateTime": 1723330800000,
+        "FireOutDateTime": 1723391160000,
+        "IncidentSize": 1.1,
+        "POOState": "US-CO",
+        "Latitude": 37.2185391517805,
+        "Longitude": -103.475259491611
+    },
+    {
+        "IncidentName": "ROCK",
+        "FireDiscoveryDateTime": 1718397420000,
+        "FireOutDateTime": 1722960000000,
+        "IncidentSize": 1,
+        "POOState": "US-CO",
+        "Latitude": 40.0189161794866,
+        "Longitude": -108.858701005742
+    },
+    {
+        "IncidentName": "West Ute Canyon 2",
+        "FireDiscoveryDateTime": 1722565069000,
+        "FireOutDateTime": 1722800700000,
+        "IncidentSize": 3.83,
+        "POOState": "US-CO",
+        "Latitude": 37.0341451757273,
+        "Longitude": -102.600009268388
+    },
+    {
+        "IncidentName": "West Ute Canyon",
+        "FireDiscoveryDateTime": 1722563953000,
+        "FireOutDateTime": 1722800700000,
+        "IncidentSize": 6.57,
+        "POOState": "US-CO",
+        "Latitude": 37.0333391756019,
+        "Longitude": -102.600009268314
+    },
+    {
+        "IncidentName": "Payne Wash",
+        "FireDiscoveryDateTime": 1722804420000,
+        "FireOutDateTime": 1723245300000,
+        "IncidentSize": 27,
+        "POOState": "US-CO",
+        "Latitude": 38.964493047091,
+        "Longitude": -108.84639187721
+    },
+    {
+        "IncidentName": "Grass Mesa",
+        "FireDiscoveryDateTime": 1717642260000,
+        "FireOutDateTime": 1717700400000,
+        "IncidentSize": 1,
+        "POOState": "US-CO",
+        "Latitude": 39.5078081915697,
+        "Longitude": -107.790736711905
+    },
+    {
+        "IncidentName": "NELSON",
+        "FireDiscoveryDateTime": 1717890000000,
+        "FireOutDateTime": 1725482400000,
+        "IncidentSize": 3.3,
+        "POOState": "US-CO",
+        "Latitude": 40.8016232699077,
+        "Longitude": -108.935094122285
+    },
+    {
+        "IncidentName": "Loafeo",
+        "FireDiscoveryDateTime": 1721251230000,
+        "FireOutDateTime": 1722866400000,
+        "IncidentSize": 18,
+        "POOState": "US-CO",
+        "Latitude": 37.151196149875,
+        "Longitude": -103.336339452761
+    },
+    {
+        "IncidentName": "Alejandro",
+        "FireDiscoveryDateTime": 1722986520000,
+        "FireOutDateTime": 1723760940000,
+        "IncidentSize": 22,
+        "POOState": "US-CO",
+        "Latitude": 37.4568761696328,
+        "Longitude": -103.774335584162
+    },
+    {
+        "IncidentName": "Crowder Ranch",
+        "FireDiscoveryDateTime": 1721064120000,
+        "FireOutDateTime": 1721825100000,
+        "IncidentSize": 494,
+        "POOState": "US-CO",
+        "Latitude": 37.3751061505962,
+        "Longitude": -103.884409601899
+    },
+    {
+        "IncidentName": "Gateway",
+        "FireDiscoveryDateTime": 1720144800000,
+        "FireOutDateTime": 1720468860000,
+        "IncidentSize": 8,
+        "POOState": "US-CO",
+        "Latitude": 39.8081884351491,
+        "Longitude": -104.893637094272
+    },
+    {
+        "IncidentName": "86 Command",
+        "FireDiscoveryDateTime": 1721681760000,
+        "FireOutDateTime": 1721764500000,
+        "IncidentSize": 37.5,
+        "POOState": "US-CO",
+        "Latitude": 39.5170391880157,
+        "Longitude": -107.857710727662
+    },
+    {
+        "IncidentName": "Indian Creek",
+        "FireDiscoveryDateTime": 1723140985000,
+        "FireOutDateTime": 1724337540000,
+        "IncidentSize": 2,
+        "POOState": "US-CO",
+        "Latitude": 37.1796058726637,
+        "Longitude": -107.894010482117
+    },
+    {
+        "IncidentName": "LOCKHEED",
+        "FireDiscoveryDateTime": 1726593558000,
+        "FireOutDateTime": 1726617600000,
+        "IncidentSize": 1,
+        "POOState": "US-CO",
+        "Latitude": 39.5070833786613,
+        "Longitude": -105.109810109364
+    },
+    {
+        "IncidentName": "Beavertail",
+        "FireDiscoveryDateTime": 1719960553000,
+        "FireOutDateTime": 1722026400000,
+        "IncidentSize": 60.6,
+        "POOState": "US-CO",
+        "Latitude": 39.2003891186124,
+        "Longitude": -108.259843778131
+    },
+    {
+        "IncidentName": "Freedom",
+        "FireDiscoveryDateTime": 1720134000000,
+        "FireOutDateTime": 1720462440000,
+        "IncidentSize": 1.9,
+        "POOState": "US-CO",
+        "Latitude": 39.29835609935,
+        "Longitude": -108.711070886954
+    },
+    {
+        "IncidentName": "Green Mountain",
+        "FireDiscoveryDateTime": 1720805580000,
+        "FireOutDateTime": 1721258640000,
+        "IncidentSize": 3.5,
+        "POOState": "US-CO",
+        "Latitude": 39.9758094306119,
+        "Longitude": -105.286700204762
+    },
+    {
+        "IncidentName": "Jones Gulch",
+        "FireDiscoveryDateTime": 1721416987000,
+        "FireOutDateTime": 1721941020000,
+        "IncidentSize": 1,
+        "POOState": "US-CO",
+        "Latitude": 38.0795891674051,
+        "Longitude": -105.264217989504
+    },
+    {
+        "IncidentName": "Sink",
+        "FireDiscoveryDateTime": 1718554542000,
+        "FireOutDateTime": 1719768300000,
+        "IncidentSize": 6.95,
+        "POOState": "US-CO",
+        "Latitude": 39.0390940875461,
+        "Longitude": -108.405154790944
+    },
+    {
+        "IncidentName": "821",
+        "FireDiscoveryDateTime": 1727549248000,
+        "FireOutDateTime": 1731615480000,
+        "IncidentSize": 107,
+        "POOState": "US-CO",
+        "Latitude": 39.330839311239,
+        "Longitude": -105.738043233002
+    },
+    {
+        "IncidentName": "Island",
+        "FireDiscoveryDateTime": 1720221960000,
+        "FireOutDateTime": 1731085200000,
+        "IncidentSize": 48,
+        "POOState": "US-CO",
+        "Latitude": 39.5436732022956,
+        "Longitude": -107.705177697381
+    },
+    {
+        "IncidentName": "Rainbow",
+        "FireDiscoveryDateTime": 1726866720000,
+        "FireOutDateTime": 1730905200000,
+        "IncidentSize": 1.75,
+        "POOState": "US-CO",
+        "Latitude": 40.0064232917239,
+        "Longitude": -107.294127662254
+    },
+    {
+        "IncidentName": "Stone Mtn",
+        "FireDiscoveryDateTime": 1722368040000,
+        "FireOutDateTime": 1723161600000,
+        "IncidentSize": 1557,
+        "POOState": "US-CO",
+        "Latitude": 40.2250064666419,
+        "Longitude": -105.254460227199
+    },
+    {
+        "IncidentName": "Morefield",
+        "FireDiscoveryDateTime": 1722722580000,
+        "FireOutDateTime": 1724441400000,
+        "IncidentSize": 109,
+        "POOState": "US-CO",
+        "Latitude": 37.23583884657,
+        "Longitude": -108.425677601962
+    },
+    {
+        "IncidentName": "Baxter",
+        "FireDiscoveryDateTime": 1719074820000,
+        "FireOutDateTime": 1720470600000,
+        "IncidentSize": 46.4,
+        "POOState": "US-CO",
+        "Latitude": 39.369658088337,
+        "Longitude": -108.993140955827
+    },
+    {
+        "IncidentName": "Williams Mine",
+        "FireDiscoveryDateTime": 1717899000000,
+        "FireOutDateTime": 1717955580000,
+        "IncidentSize": 1.89,
+        "POOState": "US-CO",
+        "Latitude": 39.1996691015636,
+        "Longitude": -108.500868830159
+    },
+    {
+        "IncidentName": "Cameo",
+        "FireDiscoveryDateTime": 1717822260000,
+        "FireOutDateTime": 1719262560000,
+        "IncidentSize": 43,
+        "POOState": "US-CO",
+        "Latitude": 39.1597061105905,
+        "Longitude": -108.299093781918
+    },
+    {
+        "IncidentName": "75 Fire",
+        "FireDiscoveryDateTime": 1720551646000,
+        "FireOutDateTime": 1720638000000,
+        "IncidentSize": 6,
+        "POOState": "US-CO",
+        "Latitude": 40.6574946940558,
+        "Longitude": -102.877569718963
+    },
+    {
+        "IncidentName": "North Cottonwood",
+        "FireDiscoveryDateTime": 1720053780000,
+        "FireOutDateTime": 1722026400000,
+        "IncidentSize": 2,
+        "POOState": "US-CO",
+        "Latitude": 38.6013809919533,
+        "Longitude": -108.966763861794
+    },
+    {
+        "IncidentName": "VOSE",
+        "FireDiscoveryDateTime": 1719962057000,
+        "FireOutDateTime": 1721253900000,
+        "IncidentSize": 10.1,
+        "POOState": "US-CO",
+        "Latitude": 37.6866732215455,
+        "Longitude": -103.492414540642
+    },
+    {
+        "IncidentName": "24",
+        "FireDiscoveryDateTime": 1720756800000,
+        "FireOutDateTime": 1721167800000,
+        "IncidentSize": 392,
+        "POOState": "US-CO",
+        "Latitude": 39.9168306386693,
+        "Longitude": -102.143520454673
+    },
+    {
+        "IncidentName": "Alexander Mountain",
+        "FireDiscoveryDateTime": 1722272400000,
+        "FireOutDateTime": 1733763600000,
+        "IncidentSize": 9668,
+        "POOState": "US-CO",
+        "Latitude": 40.4285394944496,
+        "Longitude": -105.248710250665
+    },
+    {
+        "IncidentName": "Parvin Gulch",
+        "FireDiscoveryDateTime": 1718479855000,
+        "FireOutDateTime": 1719433800000,
+        "IncidentSize": 1.66,
+        "POOState": "US-CO",
+        "Latitude": 38.6432560803714,
+        "Longitude": -107.755043605215
+    },
+    {
+        "IncidentName": "Mee",
+        "FireDiscoveryDateTime": 1721014320000,
+        "FireOutDateTime": 1723737600000,
+        "IncidentSize": 4.7,
+        "POOState": "US-CO",
+        "Latitude": 39.1440260639775,
+        "Longitude": -108.932897916454
+    },
+    {
+        "IncidentName": "Wray Mesa",
+        "FireDiscoveryDateTime": 1720390415000,
+        "FireOutDateTime": 1722795660000,
+        "IncidentSize": 40,
+        "POOState": "US-CO",
+        "Latitude": 38.3195059528931,
+        "Longitude": -109.003010838346
+    },
+    {
+        "IncidentName": "Model",
+        "FireDiscoveryDateTime": 1726871520000,
+        "FireOutDateTime": 1726874640000,
+        "IncidentSize": 1,
+        "POOState": "US-CO",
+        "Latitude": 37.3261661190182,
+        "Longitude": -104.28031968889
+    },
+    {
+        "IncidentName": "RED TWIN",
+        "FireDiscoveryDateTime": 1721176560000,
+        "FireOutDateTime": 1721748600000,
+        "IncidentSize": 3,
+        "POOState": "US-CO",
+        "Latitude": 39.9849161753322,
+        "Longitude": -108.857641001298
+    },
+    {
+        "IncidentName": "6000",
+        "FireDiscoveryDateTime": 1721422784000,
+        "FireOutDateTime": 1721596620000,
+        "IncidentSize": 27,
+        "POOState": "US-CO",
+        "Latitude": 37.1206998035663,
+        "Longitude": -108.854954681862
+    },
+    {
+        "IncidentName": "Wildhorse 5",
+        "FireDiscoveryDateTime": 1727643733000,
+        "FireOutDateTime": 1727991900000,
+        "IncidentSize": 1200,
+        "POOState": "US-CO",
+        "Latitude": 40.6846395851695,
+        "Longitude": -104.46521009981
+    },
+    {
+        "IncidentName": "Kira",
+        "FireDiscoveryDateTime": 1720297228000,
+        "FireOutDateTime": 1720298520000,
+        "IncidentSize": 1.25,
+        "POOState": "US-CO",
+        "Latitude": 37.5571661657222,
+        "Longitude": -104.08145966527
+    },
+    {
+        "IncidentName": "Turkey Tracks 5",
+        "FireDiscoveryDateTime": 1727206873000,
+        "FireOutDateTime": 1728325380000,
+        "IncidentSize": 30,
+        "POOState": "US-CO",
+        "Latitude": 39.1430933265886,
+        "Longitude": -105.131852073298
+    },
+    {
+        "IncidentName": "Quail Hollow",
+        "FireDiscoveryDateTime": 1720890600000,
+        "FireOutDateTime": 1720990800000,
+        "IncidentSize": 1152,
+        "POOState": "US-CO",
+        "Latitude": 39.6586264627499,
+        "Longitude": -104.191399913454
+    },
+    {
+        "IncidentName": "Manitou",
+        "FireDiscoveryDateTime": 1717353600000,
+        "FireOutDateTime": 1718730960000,
+        "IncidentSize": 1,
+        "POOState": "US-CO",
+        "Latitude": 38.8700282973088,
+        "Longitude": -104.997145012234
+    },
+    {
+        "IncidentName": "SAND",
+        "FireDiscoveryDateTime": 1719789960000,
+        "FireOutDateTime": 1721842200000,
+        "IncidentSize": 1.45,
+        "POOState": "US-CO",
+        "Latitude": 40.6224652901696,
+        "Longitude": -108.375971977578
+    },
+    {
+        "IncidentName": "Mesa Creek",
+        "FireDiscoveryDateTime": 1717803732000,
+        "FireOutDateTime": 1718042400000,
+        "IncidentSize": 3.25,
+        "POOState": "US-CO",
+        "Latitude": 39.157904121302,
+        "Longitude": -108.142943747851
+    },
+    {
+        "IncidentName": "COUNTY RD 12/121",
+        "FireDiscoveryDateTime": 1723151338000,
+        "FireOutDateTime": 1723157940000,
+        "IncidentSize": 1,
+        "POOState": "US-CO",
+        "Latitude": 38.8538432747042,
+        "Longitude": -105.301648080262
+    },
+    {
+        "IncidentName": "Jewell",
+        "FireDiscoveryDateTime": 1720386082000,
+        "FireOutDateTime": 1722026400000,
+        "IncidentSize": 69,
+        "POOState": "US-CO",
+        "Latitude": 39.5844952076315,
+        "Longitude": -107.704689702113
+    },
+    {
+        "IncidentName": "Upper Taylor",
+        "FireDiscoveryDateTime": 1723599600000,
+        "FireOutDateTime": 1724162400000,
+        "IncidentSize": 72,
+        "POOState": "US-CO",
+        "Latitude": 37.4560061495409,
+        "Longitude": -104.099109659521
+    },
+    {
+        "IncidentName": "Lost Canyon",
+        "FireDiscoveryDateTime": 1720302509000,
+        "FireOutDateTime": 1721932200000,
+        "IncidentSize": 239,
+        "POOState": "US-CO",
+        "Latitude": 37.4664061734969,
+        "Longitude": -103.734709575849
+    },
+    {
+        "IncidentName": "Conejo",
+        "FireDiscoveryDateTime": 1724265730000,
+        "FireOutDateTime": 1724508300000,
+        "IncidentSize": 5.5,
+        "POOState": "US-CO",
+        "Latitude": 39.101456054809,
+        "Longitude": -108.985987922848
+    },
+    {
+        "IncidentName": "SKULL CREEK",
+        "FireDiscoveryDateTime": 1719606660000,
+        "FireOutDateTime": 1723843200000,
+        "IncidentSize": 4.07,
+        "POOState": "US-CO",
+        "Latitude": 40.2962892284505,
+        "Longitude": -108.661977998042
+    },
+    {
+        "IncidentName": "104",
+        "FireDiscoveryDateTime": 1722207246000,
+        "FireOutDateTime": 1722470400000,
+        "IncidentSize": 1804,
+        "POOState": "US-CO",
+        "Latitude": 40.7571896486583,
+        "Longitude": -103.715609931718
+    },
+    {
+        "IncidentName": "Exit 60",
+        "FireDiscoveryDateTime": 1726103672000,
+        "FireOutDateTime": 1726198200000,
+        "IncidentSize": 692,
+        "POOState": "US-CO",
+        "Latitude": 40.2297395441468,
+        "Longitude": -104.165359974101
+    },
+    {
+        "IncidentName": "Six Shooter",
+        "FireDiscoveryDateTime": 1720383660000,
+        "FireOutDateTime": null,
+        "IncidentSize": 19,
+        "POOState": "US-CO",
+        "Latitude": 37.0193058541814,
+        "Longitude": -107.834877453595
+    },
+    {
+        "IncidentName": "County Rd. 54",
+        "FireDiscoveryDateTime": 1719268910000,
+        "FireOutDateTime": 1719352800000,
+        "IncidentSize": 100,
+        "POOState": "US-CO",
+        "Latitude": 40.3634236303774,
+        "Longitude": -103.197697760537
+    },
+    {
+        "IncidentName": "STATE",
+        "FireDiscoveryDateTime": 1722194760000,
+        "FireOutDateTime": 1725897600000,
+        "IncidentSize": 7.5,
+        "POOState": "US-CO",
+        "Latitude": 39.9375661799642,
+        "Longitude": -108.713493964393
+    },
+    {
+        "IncidentName": "Salter Canyon",
+        "FireDiscoveryDateTime": 1722724496000,
+        "FireOutDateTime": 1726855680000,
+        "IncidentSize": 3,
+        "POOState": "US-CO",
+        "Latitude": 37.5948648850755,
+        "Longitude": -108.581482671656
+    },
+    {
+        "IncidentName": "WCR 386",
+        "FireDiscoveryDateTime": 1726441200000,
+        "FireOutDateTime": 1726443000000,
+        "IncidentSize": 5,
+        "POOState": "US-CO",
+        "Latitude": 40.212319533146,
+        "Longitude": -104.287931000809
+    },
+    {
+        "IncidentName": "Tocar",
+        "FireDiscoveryDateTime": 1722210300000,
+        "FireOutDateTime": null,
+        "IncidentSize": 5,
+        "POOState": "US-CO",
+        "Latitude": 37.2219360692722,
+        "Longitude": -104.838709807105
+    },
+    {
+        "IncidentName": "Western Inn",
+        "FireDiscoveryDateTime": 1721420485000,
+        "FireOutDateTime": 1722549600000,
+        "IncidentSize": 5,
+        "POOState": "US-CO",
+        "Latitude": 39.7622233763398,
+        "Longitude": -105.647127262179
+    },
+    {
+        "IncidentName": "MM 59",
+        "FireDiscoveryDateTime": 1726102800000,
+        "FireOutDateTime": 1726110780000,
+        "IncidentSize": 200,
+        "POOState": "US-CO",
+        "Latitude": 40.2264425423757,
+        "Longitude": -104.184124978119
+    },
+    {
+        "IncidentName": "COTTON",
+        "FireDiscoveryDateTime": 1718743560000,
+        "FireOutDateTime": 1721145600000,
+        "IncidentSize": 25,
+        "POOState": "US-CO",
+        "Latitude": 40.8582453903479,
+        "Longitude": -107.431622800047
+    },
+    {
+        "IncidentName": "Pony",
+        "FireDiscoveryDateTime": 1722977100000,
+        "FireOutDateTime": 1725045840000,
+        "IncidentSize": 1.8,
+        "POOState": "US-CO",
+        "Latitude": 37.99238894363,
+        "Longitude": -108.499510695662
+    },
+    {
+        "IncidentName": "Quicksilver",
+        "FireDiscoveryDateTime": 1720374003000,
+        "FireOutDateTime": 1720483200000,
+        "IncidentSize": 2.96,
+        "POOState": "US-CO",
+        "Latitude": 39.5031731929035,
+        "Longitude": -107.763427705372
+    },
+    {
+        "IncidentName": "KATHY",
+        "FireDiscoveryDateTime": 1721091660000,
+        "FireOutDateTime": 1722960060000,
+        "IncidentSize": 4,
+        "POOState": "US-CO",
+        "Latitude": 39.8602842062713,
+        "Longitude": -108.217510847423
+    },
+    {
+        "IncidentName": "Oak Ridge",
+        "FireDiscoveryDateTime": 1719068340000,
+        "FireOutDateTime": 1725483600000,
+        "IncidentSize": 1310,
+        "POOState": "US-CO",
+        "Latitude": 38.0894231833237,
+        "Longitude": -105.038726939054
+    },
+    {
+        "IncidentName": "Buckeye",
+        "FireDiscoveryDateTime": 1719435894000,
+        "FireOutDateTime": 1719450360000,
+        "IncidentSize": 3,
+        "POOState": "US-CO",
+        "Latitude": 40.8236795668785,
+        "Longitude": -104.977839236956
+    },
+    {
+        "IncidentName": "QB",
+        "FireDiscoveryDateTime": 1727130866000,
+        "FireOutDateTime": 1727712000000,
+        "IncidentSize": 5,
+        "POOState": "US-CO",
+        "Latitude": 39.9408392114346,
+        "Longitude": -108.287177872436
+    },
+    {
+        "IncidentName": "56",
+        "FireDiscoveryDateTime": 1726944498000,
+        "FireOutDateTime": 1727549280000,
+        "IncidentSize": 5.25,
+        "POOState": "US-CO",
+        "Latitude": 39.385706318473,
+        "Longitude": -105.742060240178
+    },
+    {
+        "IncidentName": "Malcolm",
+        "FireDiscoveryDateTime": 1717536040000,
+        "FireOutDateTime": 1717787460000,
+        "IncidentSize": 2,
+        "POOState": "US-CO",
+        "Latitude": 37.2320890443794,
+        "Longitude": -105.267426905669
+    },
+    {
+        "IncidentName": "County Road 90",
+        "FireDiscoveryDateTime": 1718496000000,
+        "FireOutDateTime": 1718506800000,
+        "IncidentSize": 2,
+        "POOState": "US-CO",
+        "Latitude": 39.1584793788375,
+        "Longitude": -104.388044903063
+    },
+    {
+        "IncidentName": "Goltra",
+        "FireDiscoveryDateTime": 1724191920000,
+        "FireOutDateTime": 1724699220000,
+        "IncidentSize": 205,
+        "POOState": "US-CO",
+        "Latitude": 39.7477384014179,
+        "Longitude": -105.259430171624
+    },
+    {
+        "IncidentName": "Grassy",
+        "FireDiscoveryDateTime": 1722886154000,
+        "FireOutDateTime": null,
+        "IncidentSize": 11,
+        "POOState": "US-CO",
+        "Latitude": 38.116222962265,
+        "Longitude": -108.466943701876
+    },
+    {
+        "IncidentName": "IA 836",
+        "FireDiscoveryDateTime": 1724955780000,
+        "FireOutDateTime": 1724959140000,
+        "IncidentSize": 1.5,
+        "POOState": "US-CO",
+        "Latitude": 40.6497905300439,
+        "Longitude": -105.165787258833
+    }
+]
